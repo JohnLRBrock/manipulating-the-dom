@@ -68,7 +68,8 @@ nav a {
   background-color: #c7dce0;
   font-size: 200%;
   margin: 0 1px 0 1px;
-  border-radius: 15px 15px 0 0;
+  text-decoration: none;
+  border: solid 1px black;
 } 
 nav a:hover {
   background-color: #1f3438;
